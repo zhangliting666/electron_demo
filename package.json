@@ -4,9 +4,10 @@
   "description": "A minimal Electron application",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "chcp 65001 && electron ."
+    
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/zhangliting666/ele_file",
   "keywords": [
     "Electron",
     "quick",
